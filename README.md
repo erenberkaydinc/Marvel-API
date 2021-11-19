@@ -1,7 +1,7 @@
 # Marvel-API
 React Native Marvel API application
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-877bf523265d.gif" width="400" height="750" />
+<img src="https://github.com/erenberkaydinc/Marvel-API/blob/master/src/gifgif.gif" width="400" height="750" />
 
 # Getting Started with Create React App
 
