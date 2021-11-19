@@ -1,6 +1,8 @@
 # Marvel-API
 React Native Marvel API application
 
+<img src="https://im2.ezgif.com/tmp/ezgif-2-9d74f60eda9d.gif" width="400" height="750" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
